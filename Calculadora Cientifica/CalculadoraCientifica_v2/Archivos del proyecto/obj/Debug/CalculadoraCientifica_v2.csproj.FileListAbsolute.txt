@@ -1,7 +1,0 @@
-C:\Users\usuario_01\Desktop\Calculadora Cientifica\CalculadoraCientifica_v2\bin\Debug\CalculadoraCientifica_v2.exe.config
-C:\Users\usuario_01\Desktop\Calculadora Cientifica\CalculadoraCientifica_v2\bin\Debug\CalculadoraCientifica_v2.exe
-C:\Users\usuario_01\Desktop\Calculadora Cientifica\CalculadoraCientifica_v2\bin\Debug\CalculadoraCientifica_v2.pdb
-C:\Users\usuario_01\Desktop\Calculadora Cientifica\CalculadoraCientifica_v2\obj\Debug\CalculadoraCientifica_v2.csproj.AssemblyReference.cache
-C:\Users\usuario_01\Desktop\Calculadora Cientifica\CalculadoraCientifica_v2\obj\Debug\CalculadoraCientifica_v2.csproj.CoreCompileInputs.cache
-C:\Users\usuario_01\Desktop\Calculadora Cientifica\CalculadoraCientifica_v2\obj\Debug\CalculadoraCientifica_v2.exe
-C:\Users\usuario_01\Desktop\Calculadora Cientifica\CalculadoraCientifica_v2\obj\Debug\CalculadoraCientifica_v2.pdb
