@@ -1,0 +1,1 @@
+Proyecto de Consola y Windows Forms usando C#, implementando una calculadora con la capacidad de resolver expresiones con múltiples paréntesis y multiples operadores, todo en la misma expresión matemática obedeciendo la jerarquía de los operadores. 
